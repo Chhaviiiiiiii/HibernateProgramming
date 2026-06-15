@@ -5,7 +5,7 @@ import org.hibernate.cfg.Configuration;
 
 import com.cdgi.Product.Product;
 
-public class App3 {
+public class  ProductApp3 {
 
 	public static void main(String[] args) {
 		
