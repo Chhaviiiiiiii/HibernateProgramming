@@ -7,7 +7,7 @@ import com.cdgi.Product.Product;
 
 
 
-public class App1 {
+public class ProductApp1 {
 
 	public static void main(String[] args) {
 		
